@@ -16,6 +16,6 @@ Exemplo:
 >node qrCodePix.js
 
 Saída:
-Payload: 00020126580014br.gov.bcb.pix0136e91e0334-2b7d-41ec-89b8-65d1270869255204000053039865406123.455802BR5913FULANO DE TAL6007VITORIA62070503***6304                                     
+Payload: 00020126580014br.gov.bcb.pix0136e91e0334-2b7d-41ec-89b8-65d1270869255204000053039865406123.455802BR5913FULANO DE TAL6007VITORIA62070503\*\*\*6304                                     
 CRC: 176E                                                                                                                                                                                   
-QrCode: 00020126580014br.gov.bcb.pix0136e91e0334-2b7d-41ec-89b8-65d1270869255204000053039865406123.455802BR5913FULANO DE TAL6007VITORIA62070503***6304176E
+QrCode: 00020126580014br.gov.bcb.pix0136e91e0334-2b7d-41ec-89b8-65d1270869255204000053039865406123.455802BR5913FULANO DE TAL6007VITORIA62070503\*\*\*6304176E
