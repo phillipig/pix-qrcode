@@ -5,10 +5,13 @@ Como usar:
 
 Basta copiar a função no seu código e fornecer os seguintes dados:
 
-merchant_account:    Chave PIX
-merchant_name:       Titular da Conta
-merchant_city:       Cidade do Titular
-transaction_amount:  Valor da Transação
+merchant_account: Chave PIX
+
+merchant_name: Titular da Conta
+
+merchant_city: Cidade do Titular
+
+transaction_amount: Valor da Transação
 
 O retorno da função é string para geração do QrCode. Basta aplicar essa string em uma lib de geração de QrCode.
 
